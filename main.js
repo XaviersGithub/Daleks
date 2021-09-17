@@ -14,7 +14,7 @@ var DALEK_FRAME = 1;
 var TARDIS_FRAME = 2;
 var BLAST_FRAME = 3;
 var SPEED = 3;
-var NUM_DALEKS = 15;
+var NUM_DALEKS = 14;
 
 var NORMAL = 0;
 var EXPLODING = 3;
